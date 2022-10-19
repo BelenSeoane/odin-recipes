@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 300px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+
+.waves {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.plate {
+    position: absolute;
+    top: 80px;
+    right: 50px;
+    width: 700px;
+}
