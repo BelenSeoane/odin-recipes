@@ -34,3 +34,22 @@ p {
 td {
     vertical-align: top;
 }
+
+.ingredients {
+    text-align: center;
+    background-color: rgb(216, 208, 208);
+    width: fit-content;
+    margin:auto;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 60px;
+    margin: 10px;
+}
